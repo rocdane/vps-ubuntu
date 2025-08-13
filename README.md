@@ -1,5 +1,9 @@
 # Guide Technique pour Configurer un VPS Ubuntu 24.04 LTS - DNS & Mail Server
 
+![Bash](https://img.shields.io/badge/Bash-5.2-blue)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Ce guide fournit des instructions détaillées pour configurer un serveur VPS.
 
 ## Table des Matières
@@ -71,6 +75,6 @@ Ce script automatise la configuration complète d'un serveur VPS Ubuntu 24.04 LT
 
 ## Support
 
-![Bash](https://img.shields.io/badge/Bash-5.2-blue)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+Pour toute question ou problème, consultez la documentation officielle de :
+
+- [Ubuntu Server](https://laravel.com/docs)
